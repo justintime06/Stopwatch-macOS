@@ -2,7 +2,7 @@
 //  StopwatchApp.swift
 //  Stopwatch
 //
-//  Created by Justin Epstein on 4/17/22.
+//  Created by Epstein Apps on 4/17/22.
 //
 
 import SwiftUI
